@@ -1,0 +1,32 @@
+# Environment
+.env
+.env.*
+
+!.env.example
+
+# Dependencies
+node_modules/
+
+# Logs
+*.log
+
+# Recipient / campaign data
+recipients.csv
+send-log.csv
+final-log.csv
+emails.txt
+
+# Campaign recipient data and logs
+campaigns/*/recipients.csv
+campaigns/*/send-log.csv
+
+# Temporary files
+*.tmp
+*.bak
+
+# Campaign data
+campaigns/*/
+!campaigns/example/
+!campaigns/example/campaign.txt
+!campaigns/example/recipients.csv
+!campaigns/example/send-log.csv

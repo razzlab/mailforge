@@ -1,0 +1,8 @@
+SUBJECT: Personalized Test Email
+
+Hi {{name}},
+
+This is a personalized test email sent through the company SMTP server.
+
+Best regards,
+Trishul Pandey

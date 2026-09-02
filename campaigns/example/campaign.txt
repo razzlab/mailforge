@@ -1,0 +1,9 @@
+Subject: Cold Outreach.
+
+Hi {{name}},
+
+Write your Body here.
+
+Best regards,
+razzlab
++91 1234567890
